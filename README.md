@@ -13,8 +13,8 @@
   <br/><br/>
 
   <!-- Header Badges -->
-  <img src="https://img.shields.io/badge/Degree-M.S.%20in%20Computer%20Science-7c3aed?style=flat-square&logo=academicons&logoColor=white" alt="Academic Degree"/>
-  <img src="https://img.shields.io/badge/Location-San%20Francisco%20%2F%20Remote-581c87?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/github/followers/Krishna-416?color=6d28d9&style=flat-square&label=Followers" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Krishna-416?color=4c1d95&style=flat-square&label=Total%20Stars" alt="Stars" />
   <br/>
   <a href="https://portfolio.example.com">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-6b21a8?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"/>
@@ -25,16 +25,16 @@
   <a href="mailto:dhalwalkrishna414@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/username">
+  <a href="https://github.com/Krishna-416">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=username&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <a href="https://github.com/username?tab=followers">
+  <a href="https://github.com/Krishna-416?tab=followers">
     <img src="https://img.shields.io/github/followers/username?label=Followers&style=flat-square&color=7c3aed" alt="Followers"/>
   </a>
   <a href="https://github.com/username?tab=stars">
-    <img src="https://img.shields.io/github/stars/username?style=flat-square&color=6d28d9" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/Krishna-16?style=flat-square&color=6d28d9" alt="Stars"/>
   </a>
 
 </div>
@@ -253,7 +253,7 @@ Utilizes custom Kubernetes Custom Resource Definitions (CRDs) written in Rust to
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=synthwave&no-frame=true&no-bg=true&margin-w=15" width="90%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?Krishna-416=Krishna-416&theme=synthwave&no-frame=true&no-bg=true&margin-w=15" width="90%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -263,7 +263,7 @@ Utilizes custom Kubernetes Custom Resource Definitions (CRDs) written in Rust to
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=username&theme=react-dark&bg_color=0d1117&color=a855f7&line=c084fc&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?Krishna-416=Krishna-416&theme=react-dark&bg_color=0d1117&color=a855f7&line=c084fc&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
 
@@ -274,9 +274,9 @@ Utilizes custom Kubernetes Custom Resource Definitions (CRDs) written in Rust to
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishna-416/Krishna-416/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishna-416/Krishna-416/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krishna-416/Krishna-416/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 
 </div>
