@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:13072e,50:3b0764,100:4c1d95&height=220&section=header&text=Senior%20Software%20%26%20AI%20Engineer&fontsize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:13072e,50:3b0764,100:4c1d95&height=220&section=header&text=Senior%20Software%20%26%20AI%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 
   <br/>
 
@@ -29,11 +29,11 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=username&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?Krishna-416=Krishna-416&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
   <a href="https://github.com/Krishna-416?tab=followers">
-    <img src="https://img.shields.io/github/followers/username?label=Followers&style=flat-square&color=7c3aed" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/Krishna-416?label=Followers&style=flat-square&color=7c3aed" alt="Followers"/>
   </a>
-  <a href="https://github.com/username?tab=stars">
+  <a href="https://github.com/Krishna-416?tab=stars">
     <img src="https://img.shields.io/github/stars/Krishna-16?style=flat-square&color=6d28d9" alt="Stars"/>
   </a>
 
