@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:13072e,50:3b0764,100:4c1d95&height=220&section=header&text=Senior%20Software%20%26%20AI%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
-</div>
+
 
   <br/>
 
@@ -35,7 +35,7 @@
   <a href="https://github.com/Krishna-416?tab=stars">
     <img src="https://img.shields.io/github/stars/Krishna-16?style=flat-square&color=6d28d9" alt="Stars"/>
   </a>
-
+</div>
 </div>
 
 ---
