@@ -1,7 +1,6 @@
 <div align="center">
-
-  <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:13072e,50:3b0764,100:4c1d95&height=220&section=header&text=Senior%20Software%20%26%20AI%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:13072e,50:3b0764,100:4c1d95&height=220&section=header&text=Senior%20Software%20%26%20AI%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+</div>
 
   <br/>
 
@@ -235,26 +234,17 @@ Utilizes custom Kubernetes Custom Resource Definitions (CRDs) written in Rust to
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=synthwave&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7" width="48%" alt="Streak Stats"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0" width="60%" alt="Top Languages"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishna-416&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-416&theme=synthwave&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7" width="48%" alt="Streak Stats" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-416&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0" width="60%" alt="Top Languages" />
 </div>
-
----
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?Krishna-416=Krishna-416&theme=synthwave&no-frame=true&no-bg=true&margin-w=15" width="90%" alt="GitHub Trophies"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Krishna-416&theme=synthwave&no-frame=true&no-bg=true&margin-w=15" width="90%" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -262,9 +252,7 @@ Utilizes custom Kubernetes Custom Resource Definitions (CRDs) written in Rust to
 ## 📈 Contribution Activity
 
 <div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?Krishna-416=Krishna-416&theme=react-dark&bg_color=0d1117&color=a855f7&line=c084fc&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna-416&theme=react-dark&bg_color=0d1117&color=a855f7&line=c084fc&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 </div>
 
 ---
