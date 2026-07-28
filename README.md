@@ -22,7 +22,7 @@
   <a href="https://linkedin.com/in/username">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:engineer@example.com">
+  <a href="mailto:dhalwalkrishna414@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/username">
@@ -59,28 +59,28 @@ I am a **Student in Dezyne `Ecole College** specializing in the design and execu
 ### Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,java,go,rust,sql&theme=dark" alt="Languages"/>
+   <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,java,go,rust,c,html,css" alt="Languages" />
   </a>
 </p>
 
 ### Frontend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,html,css,sass&theme=dark" alt="Frontend"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,bootstrap,sass,threejs" alt="Frontend" />
   </a>
 </p>
 
 ### Backend & Databases
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,cassandra&theme=dark" alt="Backend"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,postgres,mongodb,redis,graphql,kafka" alt="Backend" />
   </a>
 </p>
 
 ### Cloud, DevOps & Tooling
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,kafka,nginx,linux&theme=dark" alt="Cloud & DevOps"/>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,linux,nginx,git,postman" alt="DevOps" />
   </a>
 </p>
 
@@ -283,17 +283,20 @@ Utilizes custom Kubernetes Custom Resource Definitions (CRDs) written in Rust to
 
 ---
 
-Current Focus:
-  Learning:
-    - Distributed Systems Consensus Algorithms (Raft, Paxos)
-    - Advanced GPU CUDA Programming & Memory Optimization
-  Building:
-    - Next-Generation LLM Agentic Frameworks
-    - High-Performance Cloud Native Microservices in Rust
-  Exploring:
-    - Quantum Computing Algorithms & Qiskit
-    - Edge AI Model Quantization for IoT Architectures
-  Open To:
-    - Advisory Roles
-    - High-Impact Open Source Collaborations
-    - Enterprise Software Architecture Speaking Engagements
+### Current Focus
+
+```yaml
+Learning:
+  - Distributed Systems Consensus Algorithms (Raft, Paxos)
+  - Advanced GPU CUDA Programming & Memory Optimization
+Building:
+  - Next-Generation LLM Agentic Frameworks
+  - High-Performance Cloud Native Microservices in Rust
+Exploring:
+  - Quantum Computing Algorithms & Qiskit
+  - Edge AI Model Quantization for IoT Architectures
+Open To:
+  - Advisory Roles
+  - High-Impact Open Source Collaborations
+  - Enterprise Software Architecture Speaking Engagements
+```
