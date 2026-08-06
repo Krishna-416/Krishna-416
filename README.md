@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:13072e,50:3b0764,100:4c1d95&height=200&section=header&text=Krishna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:13072e,50:3b0764,100:4c1d95&height=200&section=header&text=Krishna_dhalwal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header Banner" />
   <br />
 
   <!-- Typing SVG Animation -->
