@@ -1,16 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:13072e,50:3b0764,100:4c1d95&height=220&section=header&text=Krishna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20%26%20AI%20Engineer&descSize=20&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:13072e,50:3b0764,100:4c1d95&height=200&section=header&text=Krishna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header Banner" />
   <br />
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Distributed+Systems+%7C+High-Throughput+Architectures;Large-Scale+AI%2FML+Pipelines+%26+LLM+Deployment;Full-Stack+Enterprise+Product+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+%26+AI+Engineer;Distributed+Systems+%7C+ML+Pipelines;Full-Stack+Enterprise+Engineering" alt="Typing SVG" />
   </a>
   <br />
   <br />
-
-
-
+</div>
   <!-- Header Badges -->
   <img src="https://img.shields.io/github/followers/Krishna-416?color=6d28d9&style=flat-square&label=Followers" alt="Followers" />
 <img src="https://img.shields.io/github/stars/Krishna-416?color=4c1d95&style=flat-square&label=Total%20Stars" alt="Stars" />
@@ -58,21 +56,21 @@ I am a **Student in Dezyne `Ecole College** specializing in the design and execu
 ### Languages
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,java,go,rust,c,html,css" alt="Languages" />
+   <img src="https://skillicons.dev/icons?i=py,js,cpp,java,c,html,css" alt="Languages" />
   </a>
 </p>
 
 ### Frontend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,bootstrap,sass,threejs" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" alt="Frontend" />
   </a>
 </p>
 
 ### Backend & Databases
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,postgres,mongodb,redis,graphql,kafka" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,Js" alt="Backend" />
   </a>
 </p>
 
