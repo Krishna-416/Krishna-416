@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:13072e,50:3b0764,100:4c1d95&height=220&section=header&text=Krishna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20%26%20AI%20Engineer&descSize=20&descAlignY=62" width="100%" alt="Header Banner" />
+  <br />
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
@@ -6,16 +9,7 @@
   <br />
   <br />
 
-  <!-- Header Badges -->
-  <img src="https://img.shields.io/github/followers/Krishna-416?color=6d28d9&style=flat-square&label=Followers" alt="Followers" />
-</div>
 
-  <!-- Typing SVG Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Distributed+Systems+%7C+High-Throughput+Architectures;Large-Scale+AI%2FML+Pipelines+%26+LLM+Deployment;Full-Stack+Enterprise+Product+Engineering" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
 
   <!-- Header Badges -->
   <img src="https://img.shields.io/github/followers/Krishna-416?color=6d28d9&style=flat-square&label=Followers" alt="Followers" />
