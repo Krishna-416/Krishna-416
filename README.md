@@ -10,6 +10,7 @@
   <br />
 </div>
   <!-- Header Badges -->
+  <p align="center">
   <img src="https://img.shields.io/github/followers/Krishna-416?color=6d28d9&style=flat-square&label=Followers" alt="Followers" />
 <img src="https://img.shields.io/github/stars/Krishna-416?color=4c1d95&style=flat-square&label=Total%20Stars" alt="Stars" />
   <br/>
